@@ -6,6 +6,6 @@ I'm Aurora, a student at the Front End Development course at Noroff. I hold a Ba
 👓 Accessible design  
 🖋 Designing logos  
 
-#How to reach me: 
+# 📫How to reach me: 
 🙋‍♀️[LinkedIn](https://www.linkedin.com/in/aurora-r%C3%B8ed-hagen-580519203/)
 ✉ E-mail me at auroraroedhagen@gmail.com
